@@ -9,6 +9,8 @@ authors:
   given-names: "Tairan"
 - family-names: "Ozcan"
   given-names: "Aydogan"
-title: PORPHURA/GedankenNet: Release AIP
+title: "Self-supervised learning of hologram reconstruction using physics consistency"
 version: v1.0
+doi: 10.5281/zenodo.8035499
+url: "https://github.com/PORPHURA/GedankenNet"
 date-released: 2023-06-14
