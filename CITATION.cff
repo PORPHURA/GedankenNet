@@ -1,14 +1,14 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Huang
-    given-names: Luzhe
-  - family-names: Chen
-    given-names: Hanlong
-  - family-names: Liu
-    given-names: Tairan
-  - family-names: Ozcan
-    given-names: Aydogan
+- family-names: "Huang"
+  given-names: "Luzhe"
+- family-names: "Chen"
+  given-names: "Hanlong"
+- family-names: "Liu"
+  given-names: "Tairan"
+- family-names: "Ozcan"
+  given-names: "Aydogan"
 title: PORPHURA/GedankenNet: Release AIP
 version: v1.0
 date-released: 2023-06-14
