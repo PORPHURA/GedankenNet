@@ -1,6 +1,8 @@
 # Self-supervised learning of hologram reconstruction using physics consistency
 
-Luzhe Huang, Hanlong Chen, Tairan Liu, Aydogan Ozcan
+Luzhe Huang, Hanlong Chen, Tairan Liu, Aydogan Ozcan, Self-supervised learning of hologram reconstruction using physics consistency. Nat Mach Intell 5, 895–907 (2023).
+
+[\[Paper\]](https://www.nature.com/articles/s42256-023-00704-7) [\[Video\]](https://drive.google.com/file/d/1r50V82b78ca4sOXQa4rXCctrDzWrPM9q/view?usp=share_link) [\[Citation\]](GedankenNet.bib)
 
 ## Environment requirements
 The codes was tested on Windows 11 and Linux, with Python and PyTorch. Packages required to reproduce the results can be found in `requirements.txt`. The following software / hardware is tested and recommended:
